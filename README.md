@@ -1,0 +1,2 @@
+# statistical_functions_written_in_pure_python
+Statistical functions written in pure python
